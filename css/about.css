@@ -1,5 +1,16 @@
+
+div.opening {
+  padding: 10%;
+}
+
 .opening h1 {
   font-family: Helvetica, sans-serif;
   font-weight: lighter;
   color: #1a4c1a;
+}
+
+.opening h4 {
+  color:  #336600;
+  font-weight: bold;
+
 }
