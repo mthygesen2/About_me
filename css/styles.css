@@ -3,6 +3,20 @@
   width: auto;
   height: 400px;
   margin: 2%;
+  margin-top: 10%;
   padding: 2%;
   text-align: center;
+}
+
+.paragraphs {
+  margin-top: 10%;
+}
+
+img {
+  float: right;
+  margin: 0 0 10px 10px;
+}
+.projects {
+  margin-top: 150px;
+  width: auto;
 }
