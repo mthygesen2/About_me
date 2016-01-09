@@ -21,5 +21,6 @@ div.opening {
 
 }
 #navbar {
-  margin-right: 5%;
+    padding-right: 5%;
+    background-color:  #e5fff5;
 }
